@@ -1,4 +1,4 @@
-package com.napier.sems;
+package com.napier.courswork;
 
 import  java.sql.*;
 import java.util.ArrayList;
